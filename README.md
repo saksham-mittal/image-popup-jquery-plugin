@@ -12,9 +12,10 @@ To start using the plugin include the following code at the end of your ```<body
 <div class="overlay-dark"></div>
 <img class="img-overlay">
 ```
-Include the class ```img-popup``` in the ```<img>``` tags where you want to use this effect
-Also link the jquery file
-```<script src="path/to/image-popup.js" type="text/javascript"></script>```
+Include the class ```img-popup``` in the ```<img>``` tags where you want to use this effect.
+
+Also link the jquery file ```<script src="path/to/image-popup.js" type="text/javascript"></script>```
+
 **Attention** Don't forget to load the JavaScript libraries of jQuery first
 
 ## Examples
