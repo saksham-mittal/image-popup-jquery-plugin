@@ -8,7 +8,7 @@ This is a lightweight plugin which makes the image pop-up with a faded backgroun
 
 ## Installation
 To start using the plugin include the following code at the end of your ```<body>``` tag
-```
+```html
 <div class="overlay-dark"></div>
 <img class="img-overlay">
 ```
